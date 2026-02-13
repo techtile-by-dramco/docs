@@ -26,6 +26,21 @@ npm run preview
 
 `npm run build` also generates the search index (Pagefind), used in production output.
 
+## Deploy to GitHub Pages
+
+This repo is configured for deployment through GitHub Actions (`.github/workflows/deploy-pages.yml`).
+
+1. Push to `main` (or run the workflow manually from the Actions tab).
+2. In GitHub, open `Settings > Pages`.
+3. Under `Build and deployment`, set `Source` to `GitHub Actions`.
+
+The workflow automatically sets:
+
+- `SITE_URL` to `https://<owner>.github.io`
+- `BASE_PATH` to `/` for user pages or `/<repo>` for project pages
+
+This keeps routes and built-in search working on Pages.
+
 ## Project Structure
 
 ```text
