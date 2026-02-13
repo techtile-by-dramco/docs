@@ -21,10 +21,10 @@ Physical room geometry, tile composition, and spatial naming conventions used by
 
 ## Grondplan
 
-![Techtile grondplan](/grondplan/plan.svg)
+<img src="../../grondplan/plan.svg" alt="Techtile grondplan" />
 
-- Vector plan: [`/grondplan/plan.svg`](/grondplan/plan.svg)
-- PDF plan: [`/grondplan/plan.pdf`](/grondplan/plan.pdf)
+- Vector plan: [`../../grondplan/plan.svg`](../../grondplan/plan.svg)
+- PDF plan: [`../../grondplan/plan.pdf`](../../grondplan/plan.pdf)
 
 ## Interfaces
 

@@ -33,7 +33,7 @@ Octoclocks provide the RF timing distribution reference for synchronized operati
 
 The broadband patch antenna design and measurement artifacts are part of the RF toolchain. The plot below shows the 920 MHz centered span view used in the antenna measurements.
 
-![Techtile 920 MHz patch antenna measurement (center 920 MHz, span 400 MHz)](/rf/Techtile-920MHz-antenna-center-920MHz-span-400MHz.png)
+<img src="../../rf/Techtile-920MHz-antenna-center-920MHz-span-400MHz.png" alt="Techtile 920 MHz patch antenna measurement (center 920 MHz, span 400 MHz)" />
 
 ## Interfaces
 

@@ -14,9 +14,9 @@ Clock and trigger coherence across distributed tiles and central DAQ infrastruct
 
 ## Octoclocks
 
-![Octoclock locations floor plan](/octoclock/Floor-Plan-Octoclock-Locations-Infrastructure.png)
+<img src="../../octoclock/Floor-Plan-Octoclock-Locations-Infrastructure.png" alt="Octoclock locations floor plan" />
 
-- Image: [`/octoclock/Floor-Plan-Octoclock-Locations-Infrastructure.png`](/octoclock/Floor-Plan-Octoclock-Locations-Infrastructure.png)
+- Image: [`../../octoclock/Floor-Plan-Octoclock-Locations-Infrastructure.png`](../../octoclock/Floor-Plan-Octoclock-Locations-Infrastructure.png)
 
 ## B210 Synchronization Investigation
 

@@ -23,11 +23,11 @@ Power distribution from cabinet PDUs to network backbone and per-tile PoE delive
 
 This diagram shows what is connected to each PDU and includes management IP annotations.
 
-![Server cabinet connections](/power/Connections-Server-Cabinet.jpg)
+<img src="../../power/Connections-Server-Cabinet.jpg" alt="Server cabinet connections" />
 
-- Image: [`/power/Connections-Server-Cabinet.jpg`](/power/Connections-Server-Cabinet.jpg)
-- PDF: [`/power/Connections-Server-Cabinet.pdf`](/power/Connections-Server-Cabinet.pdf)
-- PPTX (editable): [`/power/Connections-Server-Cabinet.pptx`](/power/Connections-Server-Cabinet.pptx)
+- Image: [`../../power/Connections-Server-Cabinet.jpg`](../../power/Connections-Server-Cabinet.jpg)
+- PDF: [`../../power/Connections-Server-Cabinet.pdf`](../../power/Connections-Server-Cabinet.pdf)
+- PPTX (editable): [`../../power/Connections-Server-Cabinet.pptx`](../../power/Connections-Server-Cabinet.pptx)
 
 ## Interfaces
 
