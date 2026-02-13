@@ -1,0 +1,37 @@
+---
+title: Techtile Infrastructure Docs
+description: Componentized documentation for the Techtile research testbed.
+component: cross-cutting
+status: reviewed
+last_verified: 2026-02-13
+sensitivity: internal
+---
+
+import { Card, CardGrid } from '@astrojs/starlight/components';
+
+## Scope
+
+This site captures the **deployed Techtile infrastructure** as component dossiers based on operational documents in `techtile-info/`.
+
+The first release focuses on:
+
+- infrastructure decomposition by component
+- practical operational facts
+- access and management procedures
+
+## Start Here
+
+<CardGrid stagger>
+  <Card title="Infrastructure Overview" icon="diagram" href="/infrastructure/overview/">
+    High-level architecture, boundaries, and component responsibilities.
+  </Card>
+  <Card title="Network Backbone" icon="graph" href="/infrastructure/network/">
+    Switching, addressing, VPN ingress, and switchport/midspan mappings.
+  </Card>
+  <Card title="Remote Access" icon="lock" href="/operations/remote-access/">
+    VPN onboarding and connection steps for off-site users.
+  </Card>
+  <Card title="Tile Management" icon="seti" href="/operations/tile-management/">
+    Fleet operations for tile nodes: status, upgrades, reboot/shutdown, and USRP tasks.
+  </Card>
+</CardGrid>
