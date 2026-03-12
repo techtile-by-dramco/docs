@@ -11,6 +11,8 @@ sensitivity: internal
 
 Central operational notes for virtual machines used in the Techtile infrastructure stack.
 
+List of running VMs: http://192.108.0.1:8001/
+
 ## VM Inventory Template
 
 Use this table as the maintained source in docs.
